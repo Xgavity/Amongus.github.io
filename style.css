@@ -1,0 +1,184 @@
+/*                  <img src="ico-star05-svg.png">
+                    <img src="ico-star03-svg.png">
+                    <img src="ico-star06-svg.png">
+                    <img src="ico-star07-svg.png">
+                    <img src="ico-star09-svg.png">
+                    <img src="ico-red-star02-svg.png">*/
+
+header{
+    width: 100%;
+    height: 600px;
+    background-color: aqua;
+}
+
+#header {
+    width: 100%;
+    height: 600px;
+    
+}
+
+#sec0{
+    float: right;
+    width: 900px;
+    height: 5000px;
+    
+    
+}
+
+#sec0 img {
+    margin-top: 3000px;
+}
+
+#right{
+    margin-top: 8000;
+}
+
+#sec1{
+    width: 900px;
+    height: 1000px;
+    
+}
+
+#sec2{
+    width: 1200px;
+    height: 2000px;
+    position: absolute;
+    left: 28%;
+    margin-left: -50px;
+    top: 50%;
+    margin-top: -42px;
+    margin-bottom: 1000px;
+    /*background-color: darkcyan;*/
+}
+
+footer{
+    background-color: darkblue;
+    width: 100%;
+    height: 750px;
+    margin-top: 4500px;
+}
+#gradient{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+footer p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: aliceblue;
+    padding-top: 50px;
+    
+}
+
+#bold{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin: 100px 200px 100px 200px;
+}
+.basic {
+    text-align: justify;
+    font-size: 15px;
+    font-family: Tahoma, sans-serif;font-size: 35px;
+    color: white;
+    margin: 100px 200px 200px 200px;
+}
+
+#sec2 iframe{
+    margin-left: 270px;
+}
+
+
+
+#sec1 img{
+    float: right;
+    margin-top: 500px;
+}
+
+#group img{
+    padding-left: 50px;
+    margin: 10px;
+    width: 320px;
+    height: 200px;
+}
+
+#NEW {
+    font-family: "PTSans","PTSans","Helvetica Neue","Helvetica",sans-serif;
+    font-size: 55px;
+    text-align: center;
+    color: white;
+}
+
+#star6 {
+    margin-top: 1000px;
+    
+}
+
+#star3 {
+    padding-left: 100px;
+}
+
+#thecrew {
+    padding-left: 180px;
+    margin: 10px;
+    margin-top: 100px;
+}
+
+#objective {
+    color: white;
+    font-family: "PTSans","PTSans","Helvetica Neue","Helvetica",sans-serif;
+    text-align: center;
+    font-size: 55px;
+}
+
+ul, li {
+    color: white;
+    font-family: "PTSans","PTSans","Helvetica Neue","Helvetica",sans-serif;
+    font-size: 22px;
+    margin-left: 150px;
+    list-style-type: none;
+}
+
+ul {
+    margin-bottom: 200px;
+}
+
+.crewmates {
+    margin-left: 80px;
+}
+
+#list-header {
+    color: white;
+    font-size: 70px;
+    font-family: "PTSans","PTSans","Helvetica Neue","Helvetica",sans-serif;
+    text-align: center;
+}
+
+#drip {
+    width: 400px;
+    height: 400px;
+    margin-left: 400px;
+}
+
+#star7 {
+    float: right;
+}
+
+#fine {
+    font-size: 12px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+
+
+#info p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: aliceblue;
+}
